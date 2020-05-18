@@ -1,0 +1,9 @@
+{
+  "name": "fathom",
+  "version": "1.0.0",
+  "description": "smart contract primitives",
+  "main": "app.js",
+  "repository": "https://github.com/freight-trust/fathom.git",
+  "author": "admin@freighttrust.com",
+  "license": "BSD-3"
+}
