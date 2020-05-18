@@ -1,7 +1,9 @@
 {
   "manifestVersion": "2.2",
   "contracts": {},
-  "dependencies": {},
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0"
+  },
   "name": "fathom",
   "version": "1.3.0",
   "compiler": {
@@ -11,5 +13,6 @@
     "typechain": {
       "enabled": false
     }
-  }
+  },
+  "telemetryOptIn": false
 }
